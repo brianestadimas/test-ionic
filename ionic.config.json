@@ -1,0 +1,8 @@
+{
+  "name": "testIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a8b54b89"
+}
